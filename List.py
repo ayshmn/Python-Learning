@@ -16,7 +16,7 @@ print(len(mylist))
 # List can be any of the data types
 
 # example 1
-mylist = ["red" , 1 , None , 8.575 , True]
+mylist = ["pink" , 1 , None , 8.575 , True]
 print(mylist)
 
 #example 2
